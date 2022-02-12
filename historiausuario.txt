@@ -1,0 +1,4 @@
+Como Usuario
+quiero poder realizar compras de artículos dentro del propio sistema.
+Para poder abastecerme de los productos que se venden y aprovechar las promociones sin necesidad de salir de casa.
+
